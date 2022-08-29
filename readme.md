@@ -1,13 +1,13 @@
-# Сверстано по уроку Жеки Андриканича: "Адаптивная верстка сайта с нуля для начинающих"<br>
+# Layout made according to the lesson of Zheka Andrikanich: "Adaptive website layout from scratch for beginners"<br>
 
-## Объяснение действий. HTML CSS <br>
+## Explanation of actions. HTML CSS <br>
 
-**223 212 просмотров** <br>
+**223 212 views** <br>
 
-_Прямой эфир состоялся 28 янв. 2022 г._ <br>
+_Live broadcast on Jan 28, 2022_ <br>
 
-Адаптивная верстка сайта с нуля для начинающих. Объяснение действий.
+Responsive website layout from scratch for beginners. Explanation of actions.
 
-`Ссылка на видео с привязкой ко времени`
+`Link to video with time reference`
 https://youtu.be/sohdv21BVNI
-[![Адаптивная верстка сайта с нуля для начинающих. Объяснение действий. HTML CSS](https://img.youtube.com/vi/sohdv21BVNI/hqdefault.jpg "Адаптивная верстка сайта с нуля для начинающих. Объяснение действий. HTML CSS")](https://youtu.be/sohdv21BVNI?t=174)
+[![Responsive website layout from scratch for beginners. Explanation of actions.](https://img.youtube.com/vi/sohdv21BVNI/hqdefault.jpg "Responsive website layout from scratch for beginners. Explanation of actions.")](https://youtu.be/sohdv21BVNI?t=174)
