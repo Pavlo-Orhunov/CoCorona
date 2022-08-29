@@ -9,5 +9,5 @@ _Live broadcast on Jan 28, 2022_ <br>
 Responsive website layout from scratch for beginners. Explanation of actions.
 
 `Link to video with time reference`
-https://youtu.be/sohdv21BVNI
+https://youtu.be/sohdv21BVNI <br><br>
 [![Responsive website layout from scratch for beginners. Explanation of actions.](https://img.youtube.com/vi/sohdv21BVNI/hqdefault.jpg "Responsive website layout from scratch for beginners. Explanation of actions.")](https://youtu.be/sohdv21BVNI?t=174)
